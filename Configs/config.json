@@ -1,0 +1,14 @@
+{
+  "agents": {
+    "nlp": true,
+    "cv": true,
+    "crypto": true,
+    "forecasting": true,
+    "gaming": true
+  },
+  "models": {
+    "type": "neural_network"
+  },
+  "data": {
+    "dataset_path": "./data/datasets"
+  }
