@@ -1,0 +1,19 @@
+To run Omnia:
+1. Install requirements: 
+   ```bash
+pip install -r requirements.txt
+```
+   (I'll generate this file now)
+2. Run the app:
+   ```bash
+python omnia/app/app.py
+```
+**`omnia/requirements.txt`**
+```
+transformers
+torch
+torchvision
+statsmodels
+pandas
+numpy
+requests
